@@ -9,7 +9,7 @@
   <version>1.0-SNAPSHOT</version>
 
   <properties>
-    <protocVersion>3.9.0</protocVersion>
+    <protocVersion>3.16.3</protocVersion>
     <grpcVersion>1.24.0</grpcVersion>
   </properties>
 
